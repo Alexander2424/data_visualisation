@@ -1,2 +1,2 @@
 # Contents
-Visual comparison of Sitka, Alaska and Death Valley, NA year-round temperatures.
+Provides a coloured line chart with upper and lower temp. ranges comparing the temperatures between Alaska and Death Valley in 2018. The csv files included contain the source weather data for both geographies.
