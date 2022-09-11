@@ -1,4 +1,2 @@
 # Contents
-Using public github API to produce visualisation of the most popular (starred) repos for various programming languages.
-
-Interactive charts with descriptions and number of stars
+Produces an interactive bar chart showing the most popular GitHub repositories for 7 different programming languages in real time by sourcing the bar chart data from GitHub via an API call.
